@@ -1,6 +1,6 @@
 let yvalue = 4;
 
-console.log("polib");
+console.log("polib cccc dddd");
 
 /* 
 TESTER = document.getElementById('tester');
