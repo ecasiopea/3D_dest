@@ -1,6 +1,8 @@
 let yvalue = 4;
 
-{/* 
+console.log("polib");
+
+/* 
 TESTER = document.getElementById('tester');
 
 Plotly.newPlot( TESTER, [{
@@ -47,7 +49,7 @@ function myCallback(a, b) {
   /*Plotly.newPlot( TESTER, [{
   x: [1, 2, 3, 4, 5],
   y: [1, 2, yvalue, 8, 16] }], {
-  margin: { t: 1 } } );*/}
+  margin: { t: 1 } } );*/
   
 TESTER3 = document.getElementById('tester3');
 
